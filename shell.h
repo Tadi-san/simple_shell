@@ -3,8 +3,8 @@
 
 /*
  * File: shell.h
- * Auth:  Abenezer Tesfaye
- *     	   Aser Hailu
+ * Auth: Tadiwos Anegagregn
+ *       Nardos Teklemariam
  */
 
 #include <fcntl.h>
